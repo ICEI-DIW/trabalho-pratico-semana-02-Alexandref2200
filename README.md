@@ -3,7 +3,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Alexandre Ferreira Borges Oliveira
+- Matricula: 892304
 
 ## Print da tela da página criad
+![alt text](image.png)
